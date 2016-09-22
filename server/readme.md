@@ -1,0 +1,1 @@
+Android application as Swatcher’s client component.
